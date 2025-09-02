@@ -31,10 +31,10 @@ ChebebTN/ <br>
 │── backend/    → Node.js + Express.js + MongoDB server  
 
 ## 🔧 Installation & Setup
-
-### 1. Clone the repository
 ```bash
+# Clone the repository:
 git clone --recurse-submodules https://github.com/Yasmine-Hmida/ChebebTN.git
+# Navigate into the project folder:
 cd ChebebTN
 
 # Install Dependencies for frontend and Run it
