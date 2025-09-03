@@ -34,6 +34,7 @@ ChebebTN/ <br>
 ```bash
 # Clone the repository:
 git clone --recurse-submodules https://github.com/Yasmine-Hmida/ChebebTN.git
+
 # Navigate into the project folder:
 cd ChebebTN
 
