@@ -1,6 +1,6 @@
 # ChebebTN
 
-ChebebTN is a **MERN-Stack mobile application** designed to help job seekers in Tunisia find opportunities and connect with employers.  
+**ChebebTN** is a **MERN-Stack mobile application** designed to help job seekers in Tunisia find opportunities and connect with employers.  
 
 ## 🚀 Features
 - Smooth and a UI friendly Interface for both employers and job seekers.
