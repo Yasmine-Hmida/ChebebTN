@@ -38,12 +38,12 @@ git clone --recurse-submodules https://github.com/Yasmine-Hmida/ChebebTN.git
 # Navigate into the project folder:
 cd ChebebTN
 
-# Install Dependencies for frontend and Run it
+# Install Dependencies for frontend and Run it:
 cd frontend
 npm install
 npx expo start
 
-# Install dependencies for backend and Run it
+# Install dependencies for backend and Run it:
 cd ../backend
 npm install
 node index.js
